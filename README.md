@@ -8,8 +8,22 @@ An API for a social network web application, where users can share their thought
 - SO THAT my website can handle large amounts of unstructured data
 
 ## Usage
-Application allows to add accounts with usernames and emails.
-I am able to create, read, update and delete(CRUD) users.
-This application allows me to add friends and show many friends I have.
-This application allows me to create and find reactions and thoughts.
-I am able to delete reactions, thoughts and remove friends.
+- Application allows to add accounts with usernames and emails.
+- I am able to create, read, update and delete(CRUD) users.
+- This application allows me to add friends and show many friends I have.
+- This application allows me to create and find reactions and thoughts.
+- I am able to delete reactions, thoughts and remove friends.
+
+Technologies Use
+MongoDB
+
+Mongoose
+
+Node.js
+
+Express.js
+
+Moment.js
+
+Contributor:
+Irvens Dupuy ©2022 All Rights Reserved.
