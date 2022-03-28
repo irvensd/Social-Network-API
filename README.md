@@ -1,4 +1,9 @@
 # Social-Network-API
+
+### Github: https://github.com/irvensd/Social-Network-API
+### Walkthrough Video 
+
+
 ## Description
 An API for a social network web application, where users can share their thoughts, react to friends' thoughts and create a friend list.
 
@@ -14,7 +19,7 @@ An API for a social network web application, where users can share their thought
 - This application allows me to create and find reactions and thoughts.
 - I am able to delete reactions, thoughts and remove friends.
 
-Technologies Use
+## Technologies Use
 MongoDB
 
 Mongoose
@@ -26,4 +31,4 @@ Express.js
 Moment.js
 
 Contributor:
-Irvens Dupuy ©2022 All Rights Reserved.
+- Irvens Dupuy ©2022 All Rights Reserved.
